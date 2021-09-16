@@ -1,0 +1,22 @@
+{
+    "name": "domprojects/ci4-appstarter",
+    "type": "project",
+    "version": "4.1.4",
+    "description": "CodeIgniter 4 app starter",
+    "homepage": "https://github.com/domProjects/ci4-appstarter",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter",
+        "codeigniter4"
+    ],
+    "require": {
+        "php": "^7.3 || ^8.0",
+        "ext-curl": "*",
+        "ext-intl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "support": {
+        "source": "https://github.com/domProjects/ci4-appstarter"
+    }
+}
