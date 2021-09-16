@@ -8,6 +8,13 @@
         "codeigniter",
         "codeigniter4"
     ],
+    "authors": [
+        {
+            "name": "Emmanuel Campait",
+            "homepage": "https://domprojects.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^7.3 || ^8.0",
         "ext-curl": "*",
