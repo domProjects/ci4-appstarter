@@ -36,6 +36,7 @@ return [
 
     'latest'            => 'すべての新しいマイグレーションを実行しています...', // Running all new migrations...
     'generalFault'      => 'マイグレーション失敗！', // Migration failed!
+    'migrated'          => 'マイグレーションが完了しました。', // 'Migrations complete.'
     'migInvalidVersion' => '無効なバージョン番号です。', // Invalid version number provided.
     'toVersionPH'       => 'バージョン %s に移行しています...', // Migrating to version %s...
     'toVersion'         => 'currentバージョンに移行しています...', // Migrating to current version...
@@ -52,6 +53,6 @@ return [
     'filename'  => 'ファイル名', // Filename
     'version'   => 'バージョン', // Version
     'group'     => 'グループ', // Group
-    'on'        => '移行先: ', // Migrated On:
+    'on'        => '移行日: ', // Migrated On:
     'batch'     => 'バッチ', // Batch
 ];
