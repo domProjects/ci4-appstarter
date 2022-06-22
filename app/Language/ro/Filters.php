@@ -9,10 +9,8 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-// Security language settings
+// Filters language settings
 return [
-    'disallowedAction' => 'Die von Ihnen gewünschte Aktion ist nicht zulässig.',
-
-    // @deprecated
-    'invalidSameSite' => 'Der SameSite-Wert muss None, Lax, Strict, oder ein leerer String sein. Aktueller Wert: {0}',
+    'noFilter'           => '{0} filtrul trebuie să aibă o potrivire cu aliasul definit.',
+    'incorrectInterface' => '{0} trebuie implementat CodeIgniter\Filters\FilterInterface.',
 ];

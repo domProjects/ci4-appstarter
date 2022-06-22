@@ -9,10 +9,9 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-// Security language settings
+// Fabricator language settings
 return [
-    'disallowedAction' => 'Die von Ihnen gewünschte Aktion ist nicht zulässig.',
-
-    // @deprecated
-    'invalidSameSite' => 'Der SameSite-Wert muss None, Lax, Strict, oder ein leerer String sein. Aktueller Wert: {0}',
+    'invalidModel'      => 'Model invalid furnizat pentru fabricație.',
+    'missingFormatters' => 'Nu au fost definite formatoare valide.',
+    'createFailed'      => 'Fabricatorul nu a putut introduce pe tabel {0}: {1}',
 ];

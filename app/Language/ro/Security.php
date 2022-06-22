@@ -11,8 +11,8 @@
 
 // Security language settings
 return [
-    'disallowedAction' => 'Die von Ihnen gewünschte Aktion ist nicht zulässig.',
+    'disallowedAction' => 'Acțiunea pe care ați solicitat-o nu este permisă.',
 
     // @deprecated
-    'invalidSameSite' => 'Der SameSite-Wert muss None, Lax, Strict, oder ein leerer String sein. Aktueller Wert: {0}',
+    'invalidSameSite' => 'Valoarea SameSite trebuie să fie None, Lax, Strict sau un șir gol. Dată fiind: {0}',
 ];

@@ -9,10 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-// Security language settings
+// Testing language settings
 return [
-    'disallowedAction' => 'Die von Ihnen gewünschte Aktion ist nicht zulässig.',
-
-    // @deprecated
-    'invalidSameSite' => 'Der SameSite-Wert muss None, Lax, Strict, oder ein leerer String sein. Aktueller Wert: {0}',
+    'invalidMockClass' => '{0} nu este o clasă simulată validă',
 ];

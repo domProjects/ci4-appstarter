@@ -9,10 +9,8 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-// Security language settings
+// Log language settings
 return [
-    'disallowedAction' => 'Die von Ihnen gewünschte Aktion ist nicht zulässig.',
-
-    // @deprecated
-    'invalidSameSite' => 'Der SameSite-Wert muss None, Lax, Strict, oder ein leerer String sein. Aktueller Wert: {0}',
+    'invalidLogLevel'    => '{0} este un nivel de log invalid.',
+    'invalidMessageType' => 'Tipul de mesaj dat "{0}" nu este suportat.',
 ];
